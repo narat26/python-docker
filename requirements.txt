@@ -3,3 +3,7 @@ sqlmodel==0.0.24
 psycopg[binary]==3.2.9
 pydantic-settings==2.9.1
 uvicorn==0.34.3
+sqlmodel
+sqlalchemy
+pydantic-settings
+psycopg[binary]
