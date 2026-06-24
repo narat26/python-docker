@@ -7,3 +7,5 @@ sqlmodel
 sqlalchemy
 pydantic-settings
 psycopg[binary]
+pytest
+httpx
